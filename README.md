@@ -1,6 +1,8 @@
 # 🔥 awesome-dfir-skills
 
-> *Because incident responders shouldn't have to reinvent the wheel at 3 AM*
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![DFIR](https://img.shields.io/badge/DFIR-Skills-blue.svg)](#)
 
 A community-driven collection of DFIR / incident response **skills**: reusable prompts, workflows, and helper files that help practitioners move faster, stay consistent, and maybe—just maybe—get some sleep.
 
