@@ -8,7 +8,7 @@ A community-driven collection of DFIR / incident response **skills**: reusable p
 
 ---
 
-## 🚀 Quick Start (TL;DR for the Sleep-Deprived)
+## 🚀 Quick Start
 
 1. Pick a skill from `skills/README.md`
 2. Copy/paste it into your AI assistant (Claude, Codex, etc.)
